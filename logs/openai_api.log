@@ -1,0 +1,30 @@
+2023-11-12 13:53:59 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m177784[0m]
+2023-11-12 13:53:59 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-12 13:53:59 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-12 13:53:59 | ERROR | stderr | [31mERROR[0m:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 20000): address already in use
+2023-11-12 13:53:59 | ERROR | stderr | [32mINFO[0m:     Waiting for application shutdown.
+2023-11-12 13:53:59 | ERROR | stderr | [32mINFO[0m:     Application shutdown complete.
+2023-11-12 13:54:55 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m178116[0m]
+2023-11-12 13:54:55 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-12 13:54:55 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-12 13:54:55 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://0.0.0.0:20000[0m (Press CTRL+C to quit)
+2023-11-12 15:47:14 | INFO | stdout | [32mINFO[0m:     127.0.0.1:54272 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:47:54 | INFO | stdout | [32mINFO[0m:     127.0.0.1:57584 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:48:10 | INFO | stdout | [32mINFO[0m:     127.0.0.1:57902 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:48:31 | INFO | stdout | [32mINFO[0m:     127.0.0.1:35114 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:51:09 | INFO | stdout | [32mINFO[0m:     127.0.0.1:46578 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:51:36 | INFO | stdout | [32mINFO[0m:     127.0.0.1:49260 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:51:43 | ERROR | stderr | [33mWARNING[0m:  Invalid HTTP request received.
+2023-11-12 15:51:44 | ERROR | stderr | [33mWARNING[0m:  Invalid HTTP request received.
+2023-11-12 15:51:45 | INFO | stdout | [32mINFO[0m:     162.142.125.221:35774 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-11-12 15:51:45 | INFO | stdout | [32mINFO[0m:     162.142.125.221:58154 - "[1mGET / HTTP/1.1[0m" [31m404 Not Found[0m
+2023-11-12 15:51:45 | ERROR | stderr | [33mWARNING[0m:  Invalid HTTP request received.
+2023-11-12 15:52:13 | INFO | stdout | [32mINFO[0m:     127.0.0.1:42162 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:52:33 | INFO | stdout | [32mINFO[0m:     127.0.0.1:53340 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:53:33 | INFO | stdout | [32mINFO[0m:     127.0.0.1:35206 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:56:25 | INFO | stdout | [32mINFO[0m:     127.0.0.1:39838 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:56:55 | INFO | stdout | [32mINFO[0m:     127.0.0.1:55546 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:57:14 | INFO | stdout | [32mINFO[0m:     127.0.0.1:59636 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:58:58 | INFO | stdout | [32mINFO[0m:     127.0.0.1:45036 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 15:59:56 | INFO | stdout | [32mINFO[0m:     127.0.0.1:50960 - "[1mPOST /v1/chat/completions HTTP/1.1[0m" [32m200 OK[0m
+2023-11-12 16:05:45 | ERROR | stderr | [33mWARNING[0m:  Invalid HTTP request received.

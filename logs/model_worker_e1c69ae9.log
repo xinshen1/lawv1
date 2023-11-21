@@ -1,0 +1,2 @@
+2023-11-12 13:53:59 | INFO | model_worker | Loading the model ['DISC-LawLLM'] on worker e1c69ae9 ...
+2023-11-12 13:54:00 | ERROR | stderr |   0%|                                                                                                                                                             | 0/3 [00:00<?, ?it/s]
